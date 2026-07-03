@@ -1,4 +1,4 @@
-﻿# Quantum Optics and Quantum Computation Research Index
+﻿# Bosonic and Continuous-Variable Quantum Information
 
 Researcher: Albert Darkhosh, PhD
 
